@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Male_form-check-input mt-0</name>
+   <tag></tag>
+   <elementGuidId>d1be76f1-edda-4fa8-93d0-452fc613abd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='radio'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=radio >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6c5554fd-7ae4-4c17-ab53-a7e719737c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>9e5f8964-925b-4b5f-b13f-29460694d267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-input mt-0</value>
+      <webElementGuid>e6e0148b-1b28-41e4-a138-eb968e07ffd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;practiceForm&quot;)/div[@class=&quot;mb-3 row&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;d-flex justify-content-start align-center&quot;]/div[@class=&quot;col-sm-3 text-left&quot;]/input[@class=&quot;form-check-input mt-0&quot;]</value>
+      <webElementGuid>6f29334a-f7a2-4130-bac1-718498ea7af6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='radio'])[2]</value>
+      <webElementGuid>ac227406-b420-4fb5-ba07-6ebedcd9b27d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='practiceForm']/div[3]/div/div/div[2]/input</value>
+      <webElementGuid>d80ebc68-ed62-4b2d-ba85-4de14fa57b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>a5f8a500-a440-44fe-a47d-415fb1b90abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio']</value>
+      <webElementGuid>e6e35942-a2f6-46af-86cf-701ac6873b09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

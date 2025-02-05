@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Sports_form-check-input mt-0</name>
+   <tag></tag>
+   <elementGuidId>7f6b9be7-aba1-400f-bcdc-d39b924b0717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=checkbox >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a57d7450-bf4f-4aaf-839f-f6bffbc4cebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>90cc10ee-4835-40e9-a51b-d0ee80f279bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-input mt-0</value>
+      <webElementGuid>ce816932-84ff-41a0-819d-660950b442e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;practiceForm&quot;)/div[@class=&quot;mb-3 row&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;d-flex justify-content-start align-center&quot;]/div[@class=&quot;col-sm-3 text-left&quot;]/input[@class=&quot;form-check-input mt-0&quot;]</value>
+      <webElementGuid>88744631-b575-468f-b278-f4e069cfbe34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[2]</value>
+      <webElementGuid>5c22c95a-fc1a-4da6-b424-64dfdabd4689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='practiceForm']/div[7]/div/div/div[2]/input</value>
+      <webElementGuid>ff68f0cd-a0d7-4a04-9406-a1c1589e887c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/input</value>
+      <webElementGuid>be3fdff9-6d9b-4f1f-9991-ae0565840eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>d678d89f-285f-4754-93e9-8bb4edb0eb57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
